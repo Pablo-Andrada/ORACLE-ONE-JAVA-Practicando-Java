@@ -14,7 +14,7 @@ public class Principal {
         if (Objects.equals(diaDeLaSemana, "sabado") || Objects.equals(diaDeLaSemana, "domingo")){
             System.out.println(diaDeLaSemana + " no es un día hábil.");
         }else {
-            System.out.println(diaDeLaSemana + " es un día hábil");
+            System.out.println(diaDeLaSemana + " es un día hábil ");
         }
 
     }
